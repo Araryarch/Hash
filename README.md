@@ -58,3 +58,15 @@ Hash Table adalah struktur data yang menyimpan data berdasarkan hash code dari h
 - **Insert**: O(1), worst case: O(n).
 - **Delete**: O(1), worst case: O(n).
 - **Retrieve**: O(1), worst case: O(n).
+
+---
+
+**9.Buatlah kodingan untuk menunjukkan implementasi struktur data hash pada saat insert dan get data dengan metode collision resolution menggunakan chaining method**
+
+- ada di code class `ChainedHashTable`
+
+---
+
+**10. Buatlah kodingan untuk menunjukkan implementasi struktur data hash pada saat insert dan get data dengan metode collision resolution menggunakan open addresing method (Linear Probing, Quadratic Probing, Double Hashing)**
+
+- ada di code class `OpenAdressing`
