@@ -12,3 +12,4 @@ C:\Users\ararya\Documents\hashtable\Hash\obj\Debug\net9.0\refint\Hash.dll
 C:\Users\ararya\Documents\hashtable\Hash\obj\Debug\net9.0\Hash.pdb
 C:\Users\ararya\Documents\hashtable\Hash\obj\Debug\net9.0\Hash.genruntimeconfig.cache
 C:\Users\ararya\Documents\hashtable\Hash\obj\Debug\net9.0\ref\Hash.dll
+C:\Users\ararya\Documents\hashtable\Hash\obj\Debug\net9.0\Hash.sourcelink.json
